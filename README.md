@@ -1,16 +1,16 @@
-## Hi there 👋
+### Mathieu Jonniaux — Étudiant ingénieur Data & IA santé
 
-<!--
-**zeyglitch/zeyglitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FIE4 DSIA à l'ISIS Castres (partenaire INSA)  
+Semestre d'échange à l'ÉTS Montréal — Automne 2026  
+Spécialisation Données de Santé et Intelligence Artificielle
 
-Here are some ideas to get you started:
+**Ce sur quoi je travaille aujourd'hui**
+- Pipelines de préparation de données de santé (Python, Pandas, PMSI)
+- Traitement d'images médicales (scikit-image, DICOM)
+- Extraction de primitives artisanales et classification supervisée
+- Cadre réglementaire : RGPD · IA Act · HDS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**En recherche**  
+Stage assistant ingénieur Data / IA — 26 avril → 2 juillet 2027, prolongeable
+
+**Contact** — jonniaux.math@gmail.com · [LinkedIn](https://linkedin.com/in/mathieu-jonniaux)
