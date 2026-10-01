@@ -4,7 +4,7 @@ FIE4 DSIA à l'ISIS Castres (partenaire INSA)
 Semestre d'échange à l'ÉTS Montréal — Automne 2026  
 Spécialisation Données de Santé et Intelligence Artificielle
 
-**Ce sur quoi je travaille aujourd'hui**
+**Compétences développées**
 - Pipelines de préparation de données de santé (Python, Pandas, PMSI)
 - Traitement d'images médicales (scikit-image, DICOM)
 - Extraction de primitives artisanales et classification supervisée
