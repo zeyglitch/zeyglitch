@@ -11,6 +11,6 @@ Spécialisation Données de Santé et Intelligence Artificielle
 - Cadre réglementaire : RGPD · IA Act · HDS
 
 **En recherche**  
-Stage Data / IA de 4ᵉ année — à partir du 27 avril 2027, de 10 semaines à 4 mois
+Stage Data / IA de 4ᵉ année — à partir du 26 avril 2027, de 10 semaines à 4 mois
 
 **Contact** — jonniaux.math@gmail.com · [LinkedIn](https://linkedin.com/in/mathieu-jonniaux)
